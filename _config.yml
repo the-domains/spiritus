@@ -1,0 +1,23 @@
+name: Spiritus
+favicon: null
+layout_spectrum: 0.7717223400250077
+typography_spectrum: 0.9615781074389815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41083912504836917
+  lightness: 0.8624205444939435
+  saturation: 0.6522452412173152
+  rhythmicContrast: 0.5780880257952958
+purpose: []
