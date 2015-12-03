@@ -4,8 +4,14 @@
         <description><![CDATA[Spiritus]]></description>
         <link>https://thegrid.ai/spiritus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 20:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 20:02:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spiritus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/spiritus/2fd40bb0-294f-4600-923d-575364916f83/index.html</link>
+            <guid isPermaLink="false">2fd40bb0-294f-4600-923d-575364916f83</guid>
+            <pubDate>Thu, 03 Dec 2015 20:02:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
